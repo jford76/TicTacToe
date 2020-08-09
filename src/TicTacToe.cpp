@@ -395,17 +395,3 @@ void continuePlaying(){
 			}
 	}//end while
 }
-
-/* TO DO List:
- *
- * Function to populate board - start with all "Empty"							######	DONE!
- * Function to enable players to rotate and choose a specific space			 	######  DONE!
- * Function to validate user input - possibly loop until the x or o is chosen  	##### DONE! put into switch
- * Function to announce the winner 												##### DONE!
- * Ask the players if they want to play again 									##### DONE!
- *
- * EXTRA - Tally's and prints the number of games won AND outputs to file
- *
- */
-
-
