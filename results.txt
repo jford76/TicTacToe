@@ -1,0 +1,16 @@
+Wins after round 1
+Player 1 has 1 win
+Player 2 has 0 wins!
+
+Wins after round 2
+Player 1 has 2 win
+Player 2 has 0 wins!
+
+Wins after round 3
+Player 1 has 2 wins!
+Player 2 has 1 wins!
+
+Wins after round 1
+Player 1 has 0 wins.
+Player 2 has 1 wins.
+
